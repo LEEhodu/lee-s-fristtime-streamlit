@@ -1,4 +1,4 @@
-import steamlit as st
+import streamlit as st
 
 st.title("this is the app title")
 st.header("this is the markdown")
